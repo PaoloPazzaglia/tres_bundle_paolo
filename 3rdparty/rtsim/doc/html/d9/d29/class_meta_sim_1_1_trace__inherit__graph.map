@@ -1,0 +1,5 @@
+<map id="Trace" name="Trace">
+<area shape="rect" id="node2" href="$de/dd9/class_meta_sim_1_1_trace_ascii.html" title="{TraceAscii\n||+ TraceAscii()\l+ record()\l+ record()\l+ record()\l+ record()\l+ record()\l* record()\l* record()\l* record()\l* record()\l* record()\l}" alt="" coords="64,243,168,467"/>
+<area shape="rect" id="node4" href="$de/d87/class_r_t_sim_1_1_java_trace.html" title="{JavaTrace\n|+ endianess\l+ version\l# data\l# filenum\l# counter\l# fileLimit\l# taskList\l|+ JavaTrace()\l+ ~JavaTrace()\l+ close()\l+ getData()\l+ record()\l+ probeEndianess()\l}" alt="" coords="193,235,327,474"/>
+<area shape="rect" id="node3" href="$dc/d9f/class_r_t_sim_1_1_trace_power_consumption.html" title="{TracePowerConsumption\n||+ TracePowerConsumption()\l+ ~TracePowerConsumption()\l+ getAveragePowerSaving()\l+ getAveragePowerConsumption()\l+ action()\l}" alt="" coords="5,523,227,659"/>
+</map>

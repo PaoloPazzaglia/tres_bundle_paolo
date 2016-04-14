@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\ParseUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\RandomVar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\GenericVar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\Kernel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\Network.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\Task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\FixedExecSegment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\RandExecSegment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\reginstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\regvar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E91AF54B-176C-3993-B2A4-7CB8F8DE47B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

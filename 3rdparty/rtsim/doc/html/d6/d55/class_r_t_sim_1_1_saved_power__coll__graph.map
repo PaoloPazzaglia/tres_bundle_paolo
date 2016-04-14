@@ -1,0 +1,10 @@
+<map id="SavedPower&lt; Measure &gt;" name="SavedPower&lt; Measure &gt;">
+<area shape="rect" id="node2" href="$dc/d01/class_r_t_sim_1_1_consumed_power.html" title="{ConsumedPower\&lt; Measure \&gt;\n||+ ConsumedPower()\l+ probe()\l}" alt="" coords="27,1326,223,1418"/>
+<area shape="rect" id="node4" href="$d6/d7e/class_r_t_sim_1_1_c_p_u.html" title="{CPU\n||+ CPU()\l+ CPU()\l+ ~CPU()\l+ setIndex()\l+ getIndex()\l+ getCurrentLevel()\l+ getMaxPowerConsumption()\l+ getCurrentPowerConsumption()\l+ getCurrentPowerSaving()\l+ setSpeed()\land 6 more...\l}" alt="" coords="13,907,229,1131"/>
+<area shape="rect" id="node5" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="61,413,173,622"/>
+<area shape="rect" id="node7" href="$da/de0/class_r_t_sim_1_1_timer.html" title="{Timer\n||+ Timer()\l+ reArm()\l+ action()\l+ onTrigger()\l+ newRun()\l+ endRun()\l}" alt="" coords="208,731,304,882"/>
+<area shape="rect" id="node6" href="$de/db1/class_r_t_sim_1_1_periodic_timer.html" title="{PeriodicTimer\n||+ PeriodicTimer()\l+ reArm()\l+ action()\l}" alt="" coords="185,1155,308,1261"/>
+<area shape="rect" id="node8" href="$d8/d41/class_meta_sim_1_1_tick.html" title="{Tick\n||+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ operator++()\land 16 more...\l+ round()\l+ ceil()\l+ floor()\l+ set_default_unit()\l+ set_resolution()\l}" alt="" coords="198,369,332,666"/>
+<area shape="rect" id="node9" href="$d5/d15/class_r_t_sim_1_1_timer_1_1_timer_evt.html" title="{TimerEvt\n||+ TimerEvt()\l+ doit()\l}" alt="" coords="357,471,451,563"/>
+<area shape="rect" id="node10" href="$d9/d2e/class_meta_sim_1_1_event.html" title="{Event\n|+ _DEFAULT_PRIORITY\l+ _IMMEDIATE_PRIORITY\l# _disposable\l|+ Event()\l+ ~Event()\l+ post()\l+ process()\l+ drop()\l+ getPriority()\l+ setPriority()\l+ restorePriority()\l+ getTime()\l+ getLastTime()\land 8 more...\l+ getFirst()\l+ printQueue()\l# setTime()\l# Event()\l}" alt="" coords="311,5,497,317"/>
+</map>

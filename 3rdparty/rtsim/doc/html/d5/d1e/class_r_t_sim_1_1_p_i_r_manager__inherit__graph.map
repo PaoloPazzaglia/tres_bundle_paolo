@@ -1,0 +1,4 @@
+<map id="PIRManager" name="PIRManager">
+<area shape="rect" id="node2" href="$d2/d41/class_r_t_sim_1_1_res_manager.html" title="{ResManager\n|# _kernel\l# _sched\l# _res\l|+ ResManager()\l+ ~ResManager()\l+ addResource()\l+ request()\l+ release()\l# setKernel()\l# request()\l# release()\l}" alt="" coords="5,265,128,474"/>
+<area shape="rect" id="node3" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="10,6,123,215"/>
+</map>

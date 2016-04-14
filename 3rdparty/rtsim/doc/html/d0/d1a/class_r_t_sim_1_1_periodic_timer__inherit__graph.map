@@ -1,0 +1,5 @@
+<map id="PeriodicTimer" name="PeriodicTimer">
+<area shape="rect" id="node4" href="$dc/d9f/class_r_t_sim_1_1_trace_power_consumption.html" title="{TracePowerConsumption\n||+ TracePowerConsumption()\l+ ~TracePowerConsumption()\l+ getAveragePowerSaving()\l+ getAveragePowerConsumption()\l+ action()\l}" alt="" coords="5,632,227,768"/>
+<area shape="rect" id="node2" href="$da/de0/class_r_t_sim_1_1_timer.html" title="{Timer\n|+ _triggerEvt\l+ lastTrigger\l|+ Timer()\l+ reArm()\l+ action()\l+ onTrigger()\l+ newRun()\l+ endRun()\l}" alt="" coords="67,264,164,429"/>
+<area shape="rect" id="node3" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="59,6,172,215"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Resource" name="Resource">
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="5,297,117,506"/>
+<area shape="rect" id="node3" href="$d5/d23/class_r_t_sim_1_1_abs_r_t_task.html" title="{AbsRTTask\n||+ getDeadline()\l+ getRelDline()\l+ getTaskNumber()\l}" alt="" coords="142,348,276,455"/>
+<area shape="rect" id="node4" href="$d5/d1a/class_r_t_sim_1_1_abs_task.html" title="{AbsTask\n||+ ~AbsTask()\l+ schedule()\l+ deschedule()\l+ activate()\l+ isActive()\l+ isExecuting()\l+ getArrival()\l+ getLastArrival()\l+ setKernel()\l+ getKernel()\l+ refreshExec()\l+ getMaxExecutionTime()\l}" alt="" coords="123,6,295,245"/>
+</map>

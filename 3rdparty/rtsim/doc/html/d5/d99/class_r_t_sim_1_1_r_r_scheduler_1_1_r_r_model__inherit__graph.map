@@ -1,0 +1,3 @@
+<map id="RRScheduler::RRModel" name="RRScheduler::RRModel">
+<area shape="rect" id="node2" href="$d6/d92/class_r_t_sim_1_1_task_model.html" title="{TaskModel\n|# _rtTask\l# active\l# _insertTime\l# _threshold\l|+ TaskModel()\l+ ~TaskModel()\l+ getTask()\l+ getPriority()\l+ getTaskNumber()\l+ changePriority()\l+ getThreshold()\l+ setThreshold()\l+ setActive()\l+ setInactive()\l+ isActive()\l+ setInsertTime()\l+ getInsertTime()\l}" alt="" coords="19,6,153,303"/>
+</map>

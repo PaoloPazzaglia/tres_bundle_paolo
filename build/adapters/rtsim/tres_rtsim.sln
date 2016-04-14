@@ -1,0 +1,58 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{7EEBF7AA-7675-3D25-852D-A722073D70C2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0BB77DF5-FC6C-3887-B304-191985341DBA} = {0BB77DF5-FC6C-3887-B304-191985341DBA}
+		{02B9A8D6-1C5E-30BE-AE88-AF8FA128E47B} = {02B9A8D6-1C5E-30BE-AE88-AF8FA128E47B}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "..\..\\ZERO_CHECK.vcxproj", "{0BB77DF5-FC6C-3887-B304-191985341DBA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "metasim", "..\..\3rdparty\rtsim\metasim\src\metasim.vcxproj", "{129ED8D4-6F3B-37A0-8B61-EA7765430455}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0BB77DF5-FC6C-3887-B304-191985341DBA} = {0BB77DF5-FC6C-3887-B304-191985341DBA}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtlib", "..\..\3rdparty\rtsim\rtlib\src\rtlib.vcxproj", "{9C9ECA60-BB34-3EF6-95F6-1D486CD9703F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0BB77DF5-FC6C-3887-B304-191985341DBA} = {0BB77DF5-FC6C-3887-B304-191985341DBA}
+		{129ED8D4-6F3B-37A0-8B61-EA7765430455} = {129ED8D4-6F3B-37A0-8B61-EA7765430455}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tres_base", "..\..\base\src\tres_base.vcxproj", "{AE82D3DE-51AF-3A17-8915-4A5210061C5C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0BB77DF5-FC6C-3887-B304-191985341DBA} = {0BB77DF5-FC6C-3887-B304-191985341DBA}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tres_rtsim", "src\tres_rtsim.vcxproj", "{02B9A8D6-1C5E-30BE-AE88-AF8FA128E47B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0BB77DF5-FC6C-3887-B304-191985341DBA} = {0BB77DF5-FC6C-3887-B304-191985341DBA}
+		{129ED8D4-6F3B-37A0-8B61-EA7765430455} = {129ED8D4-6F3B-37A0-8B61-EA7765430455}
+		{9C9ECA60-BB34-3EF6-95F6-1D486CD9703F} = {9C9ECA60-BB34-3EF6-95F6-1D486CD9703F}
+		{AE82D3DE-51AF-3A17-8915-4A5210061C5C} = {AE82D3DE-51AF-3A17-8915-4A5210061C5C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EEBF7AA-7675-3D25-852D-A722073D70C2}.Release|x64.ActiveCfg = Release|x64
+		{0BB77DF5-FC6C-3887-B304-191985341DBA}.Release|x64.ActiveCfg = Release|x64
+		{0BB77DF5-FC6C-3887-B304-191985341DBA}.Release|x64.Build.0 = Release|x64
+		{129ED8D4-6F3B-37A0-8B61-EA7765430455}.Release|x64.ActiveCfg = Release|x64
+		{129ED8D4-6F3B-37A0-8B61-EA7765430455}.Release|x64.Build.0 = Release|x64
+		{9C9ECA60-BB34-3EF6-95F6-1D486CD9703F}.Release|x64.ActiveCfg = Release|x64
+		{9C9ECA60-BB34-3EF6-95F6-1D486CD9703F}.Release|x64.Build.0 = Release|x64
+		{AE82D3DE-51AF-3A17-8915-4A5210061C5C}.Release|x64.ActiveCfg = Release|x64
+		{AE82D3DE-51AF-3A17-8915-4A5210061C5C}.Release|x64.Build.0 = Release|x64
+		{02B9A8D6-1C5E-30BE-AE88-AF8FA128E47B}.Release|x64.ActiveCfg = Release|x64
+		{02B9A8D6-1C5E-30BE-AE88-AF8FA128E47B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

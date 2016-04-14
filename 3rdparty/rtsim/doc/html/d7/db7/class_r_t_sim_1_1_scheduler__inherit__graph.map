@@ -1,0 +1,8 @@
+<map id="Scheduler" name="Scheduler">
+<area shape="rect" id="node3" href="$de/d9a/class_r_t_sim_1_1_e_d_f_scheduler.html" title="{EDFScheduler\n||+ addTask()\l+ addTask()\l+ removeTask()\l+ createInstance()\l}" alt="" coords="5,749,133,870"/>
+<area shape="rect" id="node4" href="$d3/d31/class_r_t_sim_1_1_f_i_f_o_scheduler.html" title="{FIFOScheduler\n||+ addTask()\l+ addTask()\l+ removeTask()\l+ createInstance()\l}" alt="" coords="157,749,285,870"/>
+<area shape="rect" id="node5" href="$d4/d26/class_r_t_sim_1_1_f_p_scheduler.html" title="{FPScheduler\n||+ addTask()\l+ addTask()\l+ addTask()\l+ removeTask()\l+ createInstance()\l}" alt="" coords="309,741,437,877"/>
+<area shape="rect" id="node7" href="$d2/df7/class_r_t_sim_1_1_r_r_scheduler.html" title="{RRScheduler\n|# _rrEvt\l# defaultSlice\l|+ RRScheduler()\l+ setRRSlice()\l+ notify()\l+ round()\l+ addTask()\l+ addTask()\l+ removeTask()\l+ createInstance()\l}" alt="" coords="461,712,589,907"/>
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="241,6,353,215"/>
+<area shape="rect" id="node6" href="$d1/d18/class_r_t_sim_1_1_r_m_scheduler.html" title="{RMScheduler\n||+ addTask()\l+ addTask()\l+ removeTask()\l}" alt="" coords="316,955,431,1061"/>
+</map>

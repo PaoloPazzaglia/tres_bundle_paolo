@@ -1,0 +1,5 @@
+<map id="GlobalPreemptionStat" name="GlobalPreemptionStat">
+<area shape="rect" id="node2" href="$dd/d48/class_meta_sim_1_1_stat_count.html" title="Counts the number of occurrences of an event. " alt="" coords="39,936,140,1043"/>
+<area shape="rect" id="node3" href="$d2/da7/class_meta_sim_1_1_base_stat.html" title="The basic statistical class. " alt="" coords="24,368,153,885"/>
+<area shape="rect" id="node4" href="$d8/d41/class_meta_sim_1_1_tick.html" title="{Tick\n||+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ operator++()\land 16 more...\l+ round()\l+ ceil()\l+ floor()\l+ set_default_unit()\l+ set_resolution()\l}" alt="" coords="22,6,156,303"/>
+</map>

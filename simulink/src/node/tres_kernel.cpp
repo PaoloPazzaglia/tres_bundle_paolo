@@ -48,7 +48,9 @@
 #include <tres/Kernel.hpp>
 #include <tres/RTOSEvent.hpp>
 
-#include "regkern.cpp"      // registration of tres::Kernel adapters
+#include "regkern.cpp" // registration of tres::Kernel adapters
+#include "regtask.cpp"
+#include "regsched.cpp"
 
 #include "simstruc.h"
 #include "matrix.h"
@@ -79,7 +81,7 @@ namespace _tres_kernel
         bool receivedAperiodicReq;
         std::vector<boolean_T> prev_reqs;
         std::vector<int> aper_activ_idx;
-        // methdos
+        // methods
         _AperiodicReqsManager(int, InputBooleanPtrsType);
         ~_AperiodicReqsManager();
         void evaluateIncomingReqs(InputBooleanPtrsType);
@@ -308,9 +310,9 @@ mexPrintf("\n*** Aperiodic activ(s) at time: %.3f***\n", ssGetT(S));
     // Save the time of the occurrence of the first incoming event 
     long int first_incoming_evt_tick = kern->getTimeOfNextEvent();
     // FIXME
-    double simulink_time = ssGetT(S);
+    //double simulink_time = ssGetT(S);   commented out: Unused
 
-    mexPrintf( "%s, %s, major step  at %.16f\n", ssGetPath(S), __FUNCTION__, ssGetT(S) );
+    //mexPrintf( "%s, %s, major step  at %.16f\n", ssGetPath(S), __FUNCTION__, ssGetT(S) );
 
     // If the incoming event occurs in the present, i.e., at the current Simulink time
     if (first_incoming_evt_tick/(time_resolution) - ssGetT(S) <= 0.0)
@@ -383,7 +385,7 @@ mexPrintf("\n*** Aperiodic activ(s) at time: %.3f***\n", ssGetT(S));
 
         // For each Task to trigger, send a Function generation
         // signal onto the corresponding port
-        mexPrintf( "%s, %s, FIRING at time %.16f\n", ssGetPath(S), __FUNCTION__, ssGetT(S) );
+        //mexPrintf( "%s, %s, FIRING at time %.16f\n", ssGetPath(S), __FUNCTION__, ssGetT(S) );
         for (std::vector<int>::iterator port = ports.begin();
                 port != ports.end();
                     ++port)
@@ -399,8 +401,10 @@ mexPrintf("\n*** Aperiodic activ(s) at time: %.3f***\n", ssGetT(S));
 #define MDL_UPDATE
 static void mdlUpdate(SimStruct *S, int_T tid)
 {
+    #ifdef TRES_DEBUG_1
     mexPrintf( "%s, %s, major step  at %.16f\n", ssGetPath(S), __FUNCTION__, ssGetT(S) );
-
+    #endif
+    
     // Get the C++ object back from the pointers vector
     tres::Kernel *kern = static_cast<tres::Kernel *>(ssGetPWork(S)[0]);
 
@@ -413,7 +417,9 @@ static void mdlUpdate(SimStruct *S, int_T tid)
         port != ports.end();
             ++port)
     {
+        #ifdef TRES_DEBUG_1
         mexPrintf( "%s, %s, resett. at time %.16f\n", ssGetPath(S), __FUNCTION__, ssGetT(S) );
+        #endif
         ssDisableSystemWithTid(S, *port, tid);
         ssEnableSystemWithTid(S, *port, tid);
     }
@@ -450,15 +456,27 @@ mexPrintf("\n%s at _time_: %.3f\n", __FUNCTION__, ssGetT(S));
  */
 static void mdlTerminate(SimStruct *S)
 {
+    #ifdef TRES_DEBUG_1
+    mexPrintf("%s - %s @ %.3f\n", __FILE__, __FUNCTION__, ssGetT(S));
+    #endif
+    
+    #if 0
     // Get the C++ object back from the pointers vector
     tres::Kernel *kern = static_cast<tres::Kernel *>(ssGetPWork(S)[0]);
     _tres_kernel::_AperiodicReqsManager *aper_reqs_mgr = static_cast<_tres_kernel::_AperiodicReqsManager *>(ssGetPWork(S)[1]);
 
-    mexPrintf("%s - %s @ %.3f\n", kern->getName().c_str(), __FUNCTION__, ssGetT(S));
-
     // Call its destructor
     delete kern;
     delete aper_reqs_mgr;
+    #endif
+         
+    int i;
+    for (i = 0; i<ssGetNumPWork(S); i++) {
+    if (ssGetPWorkValue(S,i) != NULL) {
+      free(ssGetPWorkValue(S,i));
+        }
+    }
+
 }
 /** @} */
 

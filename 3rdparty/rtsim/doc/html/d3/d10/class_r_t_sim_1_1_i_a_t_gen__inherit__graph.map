@@ -1,0 +1,7 @@
+<map id="IATGen" name="IATGen">
+<area shape="rect" id="node3" href="$d2/d8e/class_r_t_sim_1_1_const_i_a_t_gen.html" title="{ConstIATGen\n||+ ConstIATGen()\l+ ~ConstIATGen()\l+ generate()\l}" alt="" coords="5,572,135,679"/>
+<area shape="rect" id="node4" href="$de/d3e/class_r_t_sim_1_1_uniform_i_a_t_gen.html" title="{UniformIATGen\n|+ DELTA_DEF\l# delta\l|+ UniformIATGen()\l+ ~UniformIATGen()\l+ generate()\l+ getMin()\l+ getMax()\l}" alt="" coords="160,550,300,701"/>
+<area shape="rect" id="node2" href="$da/dee/class_r_t_sim_1_1_abstract_gen.html" title="{AbstractGen\&lt; RandomVar * \&gt;\n|# va\l# taskSet\l|+ AbstractGen()\l+ ~AbstractGen()\l+ get()\l+ bind()\l+ generate()\l+ getAvg()\l+ getMin()\l+ getMax()\l}" alt="" coords="52,5,249,200"/>
+<area shape="rect" id="node5" href="$d4/d37/class_r_t_sim_1_1_max_i_a_t_gen.html" title="{MaxIATGen\n||+ MaxIATGen()\l+ getMax()\l}" alt="" coords="108,750,219,842"/>
+<area shape="rect" id="node6" href="$de/d01/class_r_t_sim_1_1_min_i_a_t_gen.html" title="{MinIATGen\n||+ MinIATGen()\l+ getMin()\l}" alt="" coords="245,750,352,842"/>
+</map>

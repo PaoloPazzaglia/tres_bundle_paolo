@@ -1,0 +1,6 @@
+<map id="Timer" name="Timer">
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="5,413,117,622"/>
+<area shape="rect" id="node3" href="$d8/d41/class_meta_sim_1_1_tick.html" title="{Tick\n||+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ operator++()\land 16 more...\l+ round()\l+ ceil()\l+ floor()\l+ set_default_unit()\l+ set_resolution()\l}" alt="" coords="142,369,276,666"/>
+<area shape="rect" id="node4" href="$d5/d15/class_r_t_sim_1_1_timer_1_1_timer_evt.html" title="{TimerEvt\n||+ TimerEvt()\l+ doit()\l}" alt="" coords="301,471,395,563"/>
+<area shape="rect" id="node5" href="$d9/d2e/class_meta_sim_1_1_event.html" title="{Event\n|+ _DEFAULT_PRIORITY\l+ _IMMEDIATE_PRIORITY\l# _disposable\l|+ Event()\l+ ~Event()\l+ post()\l+ process()\l+ drop()\l+ getPriority()\l+ setPriority()\l+ restorePriority()\l+ getTime()\l+ getLastTime()\land 8 more...\l+ getFirst()\l+ printQueue()\l# setTime()\l# Event()\l}" alt="" coords="255,5,441,317"/>
+</map>

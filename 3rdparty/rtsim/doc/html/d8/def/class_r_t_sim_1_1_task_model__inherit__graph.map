@@ -1,0 +1,6 @@
+<map id="TaskModel" name="TaskModel">
+<area shape="rect" id="node2" href="$d4/d40/class_r_t_sim_1_1_e_d_f_model.html" title="{EDFModel\n|# extP\l# prio\l|+ EDFModel()\l+ getPriority()\l+ changePriority()\l}" alt="" coords="5,441,131,562"/>
+<area shape="rect" id="node3" href="$d5/dc5/class_r_t_sim_1_1_f_p_scheduler_1_1_f_p_model.html" title="{FPModel\n|# _prio\l|+ FPModel()\l+ getPriority()\l+ setPriority()\l+ changePriority()\l}" alt="" coords="155,441,280,562"/>
+<area shape="rect" id="node4" href="$de/d96/class_r_t_sim_1_1_r_r_scheduler_1_1_r_r_model.html" title="{RRModel\n|# _rrSlice\l|+ RRModel()\l+ ~RRModel()\l+ getPriority()\l+ changePriority()\l+ getRRSlice()\l+ setRRSlice()\l+ isRoundExpired()\l}" alt="" coords="305,419,439,584"/>
+<area shape="rect" id="node5" href="$d8/dc4/class_r_t_sim_1_1_r_t_model.html" title="{RTModel\n|# _rtTask\l# active\l# _insertTime\l# _threshold\l|+ RTModel()\l+ ~RTModel()\l+ getTask()\l+ getTaskNumber()\l+ getPriority()\l+ changePriority()\l+ getThreshold()\l+ setThreshold()\l+ setActive()\l+ setInactive()\l+ isActive()\l+ setInsertTime()\l+ getInsertTime()\l}" alt="" coords="463,353,597,650"/>
+</map>

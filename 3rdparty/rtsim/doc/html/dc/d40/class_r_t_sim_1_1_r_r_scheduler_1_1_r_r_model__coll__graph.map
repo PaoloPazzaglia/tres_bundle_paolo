@@ -1,0 +1,6 @@
+<map id="RRScheduler::RRModel" name="RRScheduler::RRModel">
+<area shape="rect" id="node2" href="$d6/d92/class_r_t_sim_1_1_task_model.html" title="{TaskModel\n|# active\l# _insertTime\l# _threshold\l|+ TaskModel()\l+ ~TaskModel()\l+ getTask()\l+ getPriority()\l+ getTaskNumber()\l+ changePriority()\l+ getThreshold()\l+ setThreshold()\l+ setActive()\l+ setInactive()\l+ isActive()\l+ setInsertTime()\l+ getInsertTime()\l}" alt="" coords="23,475,157,757"/>
+<area shape="rect" id="node3" href="$d5/d23/class_r_t_sim_1_1_abs_r_t_task.html" title="{AbsRTTask\n||+ getDeadline()\l+ getRelDline()\l+ getTaskNumber()\l}" alt="" coords="23,296,157,403"/>
+<area shape="rect" id="node4" href="$d5/d1a/class_r_t_sim_1_1_abs_task.html" title="{AbsTask\n||+ ~AbsTask()\l+ schedule()\l+ deschedule()\l+ activate()\l+ isActive()\l+ isExecuting()\l+ getArrival()\l+ getLastArrival()\l+ setKernel()\l+ getKernel()\l+ refreshExec()\l+ getMaxExecutionTime()\l}" alt="" coords="5,6,176,245"/>
+<area shape="rect" id="node5" href="$d8/d41/class_meta_sim_1_1_tick.html" title="{Tick\n||+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ operator++()\land 16 more...\l+ round()\l+ ceil()\l+ floor()\l+ set_default_unit()\l+ set_resolution()\l}" alt="" coords="182,467,316,765"/>
+</map>

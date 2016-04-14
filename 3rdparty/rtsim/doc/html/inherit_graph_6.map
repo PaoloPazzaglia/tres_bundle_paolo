@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/da7/class_meta_sim_1_1_base_stat.html" title="The basic statistical class. " alt="" coords="6,157,82,184"/>
+<area shape="rect" id="node2" href="$dd/d48/class_meta_sim_1_1_stat_count.html" title="Counts the number of occurrences of an event. " alt="" coords="139,31,221,57"/>
+<area shape="rect" id="node5" href="$d4/dae/class_meta_sim_1_1_stat_max.html" title="Computes the max value. " alt="" coords="145,81,215,108"/>
+<area shape="rect" id="node6" href="$df/d81/class_meta_sim_1_1_stat_mean.html" title="Computes a mean value X_m = (Sigma{X_i}i=1,N)/N. " alt="" coords="141,132,219,159"/>
+<area shape="rect" id="node7" href="$d1/db5/class_meta_sim_1_1_stat_min.html" title="Computes the min value. " alt="" coords="147,183,213,209"/>
+<area shape="rect" id="node8" href="$df/d47/class_meta_sim_1_1_stat_percent.html" title="Computes the percentage of occurrences of an event. " alt="" coords="135,233,225,260"/>
+<area shape="rect" id="node10" href="$d4/dcd/class_meta_sim_1_1_stat_sqr_mean.html" title="StatSqrMean" alt="" coords="131,284,229,311"/>
+<area shape="rect" id="node3" href="$d4/dd3/class_r_t_sim_1_1_global_preemption_stat.html" title="GlobalPreemptionStat" alt="" coords="277,5,427,32"/>
+<area shape="rect" id="node4" href="$d6/d8c/class_r_t_sim_1_1_miss_count.html" title="MissCount" alt="" coords="309,56,395,83"/>
+<area shape="rect" id="node9" href="$d8/db3/class_r_t_sim_1_1_miss_percentage.html" title="MissPercentage" alt="" coords="294,233,410,260"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="EDFScheduler" name="EDFScheduler">
+<area shape="rect" id="node2" href="$d6/d44/class_r_t_sim_1_1_scheduler.html" title="{Scheduler\n|# _kernel\l# _queue\l# _tasks\l# _currExe\l# oldPriorities\l# _queue\l# _tasks\l# _currExe\l# oldPriorities\l|+ Scheduler()\l+ insert()\l+ extract()\l+ getPriority()\l+ setThreshold()\l+ enableThreshold()\l+ disableThreshold()\l+ getThreshold()\l+ getFirst()\l+ getTaskN()\land 28 more...\l# enqueueModel()\l# find()\l# enqueueModel()\l# find()\l}" alt="" coords="5,264,144,664"/>
+<area shape="rect" id="node3" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="18,6,131,215"/>
+</map>

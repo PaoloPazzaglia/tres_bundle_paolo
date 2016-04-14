@@ -44,6 +44,10 @@
 #include <string>
 #include <vector>
 #include <tres/Task.hpp>
+
+#include "reginstr.cpp"      // registration of tres::Kernel adapters
+#include "regvar.cpp"
+
 #include "simstruc.h"
 
 #define INSTRSET_DESCR_VARNAME 0

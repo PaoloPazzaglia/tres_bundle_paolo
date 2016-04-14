@@ -1,0 +1,4 @@
+<map id="SchedPoint" name="SchedPoint">
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="5,6,117,215"/>
+<area shape="rect" id="node3" href="$df/d6b/class_r_t_sim_1_1_supervisor.html" title="{Supervisor\n||+ changeBudget()\l+ addServer()\l+ ~Supervisor()\l}" alt="" coords="143,57,268,164"/>
+</map>

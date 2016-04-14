@@ -1,0 +1,11 @@
+<map id="BaseStat" name="BaseStat">
+<area shape="rect" id="node2" href="$dd/d48/class_meta_sim_1_1_stat_count.html" title="Counts the number of occurrences of an event. " alt="" coords="124,609,225,716"/>
+<area shape="rect" id="node5" href="$d4/dae/class_meta_sim_1_1_stat_max.html" title="Computes the max value. " alt="" coords="250,609,341,716"/>
+<area shape="rect" id="node6" href="$df/d81/class_meta_sim_1_1_stat_mean.html" title="Computes a mean value X_m = (Sigma{X_i}i=1,N)/N. " alt="" coords="367,602,465,723"/>
+<area shape="rect" id="node7" href="$d1/db5/class_meta_sim_1_1_stat_min.html" title="Computes the min value. " alt="" coords="490,609,581,716"/>
+<area shape="rect" id="node8" href="$df/d47/class_meta_sim_1_1_stat_percent.html" title="Computes the percentage of occurrences of an event. " alt="" coords="607,587,745,738"/>
+<area shape="rect" id="node10" href="$d4/dcd/class_meta_sim_1_1_stat_sqr_mean.html" title="{StatSqrMean\n|# _ini\l# _count\l|+ StatSqrMean()\l+ initValue()\l}" alt="" coords="770,609,888,716"/>
+<area shape="rect" id="node3" href="$d4/dd3/class_r_t_sim_1_1_global_preemption_stat.html" title="{GlobalPreemptionStat\n||+ GlobalPreemptionStat()\l+ probe()\l+ probe()\l+ attachToTask()\l+ initValue()\l}" alt="" coords="5,787,173,923"/>
+<area shape="rect" id="node4" href="$d6/d8c/class_r_t_sim_1_1_miss_count.html" title="{MissCount\n||+ MissCount()\l+ probe()\l+ attachToTask()\l}" alt="" coords="199,801,321,908"/>
+<area shape="rect" id="node9" href="$d8/db3/class_r_t_sim_1_1_miss_percentage.html" title="{MissPercentage\n||+ MissPercentage()\l+ probe()\l+ attachToTask()\l}" alt="" coords="608,801,743,908"/>
+</map>

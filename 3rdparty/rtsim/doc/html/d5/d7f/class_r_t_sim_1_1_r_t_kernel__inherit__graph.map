@@ -1,0 +1,5 @@
+<map id="RTKernel" name="RTKernel">
+<area shape="rect" id="node4" href="$d1/dc9/class_r_t_sim_1_1_m_r_t_kernel.html" title="{MRTKernel\n|# _CPUFactory\l# _m_currExe\l# _m_oldExe\l# _m_dispatched\l# _isContextSwitching\l# _beginEvt\l# _endEvt\l# _migrationDelay\l|+ MRTKernel()\l+ MRTKernel()\l+ MRTKernel()\l+ ~MRTKernel()\l+ addCPU()\l+ addTask()\l+ onArrival()\l+ suspend()\l+ onEnd()\l+ dispatch()\land 13 more...\l# internalConstructor()\l# getFreeProcessor()\l# isDispatched()\l# getNextFreeProc()\l}" alt="" coords="63,683,216,1069"/>
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="5,13,117,222"/>
+<area shape="rect" id="node3" href="$db/d74/class_r_t_sim_1_1_abs_kernel.html" title="{AbsKernel\n||+ ~AbsKernel()\l+ activate()\l+ suspend()\l+ dispatch()\l+ onArrival()\l+ onEnd()\l+ getProcessor()\l+ getOldProcessor()\l+ getSpeed()\l+ setSpeed()\l+ isContextSwitching()\l}" alt="" coords="143,5,296,229"/>
+</map>

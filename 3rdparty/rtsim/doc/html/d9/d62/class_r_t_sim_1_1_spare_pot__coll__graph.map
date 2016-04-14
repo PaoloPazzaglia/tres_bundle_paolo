@@ -1,0 +1,5 @@
+<map id="SparePot" name="SparePot">
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="5,50,117,259"/>
+<area shape="rect" id="node3" href="$df/d6b/class_r_t_sim_1_1_supervisor.html" title="{Supervisor\n||+ changeBudget()\l+ addServer()\l+ ~Supervisor()\l}" alt="" coords="143,101,268,208"/>
+<area shape="rect" id="node4" href="$d8/d41/class_meta_sim_1_1_tick.html" title="{Tick\n||+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ Tick()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ operator++()\land 16 more...\l+ round()\l+ ceil()\l+ floor()\l+ set_default_unit()\l+ set_resolution()\l}" alt="" coords="293,6,427,303"/>
+</map>

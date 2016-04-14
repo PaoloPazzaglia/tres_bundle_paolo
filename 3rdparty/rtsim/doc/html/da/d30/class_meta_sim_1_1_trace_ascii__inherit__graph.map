@@ -1,0 +1,4 @@
+<map id="TraceAscii" name="TraceAscii">
+<area shape="rect" id="node3" href="$dc/d9f/class_r_t_sim_1_1_trace_power_consumption.html" title="{TracePowerConsumption\n||+ TracePowerConsumption()\l+ ~TracePowerConsumption()\l+ getAveragePowerSaving()\l+ getAveragePowerConsumption()\l+ action()\l}" alt="" coords="5,507,227,643"/>
+<area shape="rect" id="node2" href="$d9/dbb/class_meta_sim_1_1_trace.html" title="{Trace\n|# _filename\l# _os\l# toFile\l|+ Trace()\l+ Trace()\l+ record()\l+ open()\l+ close()\l+ ~Trace()\l}" alt="" coords="71,6,160,186"/>
+</map>

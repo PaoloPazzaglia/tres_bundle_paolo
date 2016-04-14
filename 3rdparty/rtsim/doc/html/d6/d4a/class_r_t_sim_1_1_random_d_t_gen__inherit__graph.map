@@ -1,0 +1,4 @@
+<map id="RandomDTGen" name="RandomDTGen">
+<area shape="rect" id="node2" href="$d3/dbe/class_r_t_sim_1_1_d_t_gen.html" title="{DTGen\n|# iatGen\l# ctGen\l|+ DTGen()\l+ ~DTGen()\l+ bind()\l+ getMin()\l+ getAvg()\l+ getMax()\l+ DTGen()\l+ ~DTGen()\l+ bind()\l+ getMin()\l+ getAvg()\l+ getMax()\l}" alt="" coords="31,248,123,501"/>
+<area shape="rect" id="node3" href="$da/dee/class_r_t_sim_1_1_abstract_gen.html" title="{AbstractGen\&lt; Tick \&gt;\n|# va\l# taskSet\l|+ AbstractGen()\l+ ~AbstractGen()\l+ get()\l+ bind()\l+ generate()\l+ getAvg()\l+ getMin()\l+ getMax()\l}" alt="" coords="5,5,149,200"/>
+</map>

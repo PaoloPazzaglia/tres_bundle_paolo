@@ -1,0 +1,7 @@
+<map id="TracePowerConsumption" name="TracePowerConsumption">
+<area shape="rect" id="node2" href="$de/db1/class_r_t_sim_1_1_periodic_timer.html" title="{PeriodicTimer\n||+ PeriodicTimer()\l+ reArm()\l+ action()\l}" alt="" coords="5,552,128,659"/>
+<area shape="rect" id="node3" href="$da/de0/class_r_t_sim_1_1_timer.html" title="{Timer\n|+ _triggerEvt\l+ lastTrigger\l|+ Timer()\l+ reArm()\l+ action()\l+ onTrigger()\l+ newRun()\l+ endRun()\l}" alt="" coords="18,272,115,437"/>
+<area shape="rect" id="node4" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="10,6,123,215"/>
+<area shape="rect" id="node5" href="$de/dd9/class_meta_sim_1_1_trace_ascii.html" title="{TraceAscii\n||+ TraceAscii()\l+ record()\l+ record()\l+ record()\l+ record()\l+ record()\l* record()\l* record()\l* record()\l* record()\l* record()\l}" alt="" coords="152,493,256,717"/>
+<area shape="rect" id="node6" href="$d9/dbb/class_meta_sim_1_1_trace.html" title="{Trace\n|# _filename\l# _os\l# toFile\l|+ Trace()\l+ Trace()\l+ record()\l+ open()\l+ close()\l+ ~Trace()\l}" alt="" coords="159,265,248,445"/>
+</map>

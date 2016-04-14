@@ -67,7 +67,7 @@ namespace tres
         /**
          * \brief The virtual destructor
          */
-        virtual ~Kernel() = default;
+        virtual ~Kernel() {};
 
         /**
          * \brief Initialization hook for 3rd-parties RTOS scheduling simulation engines

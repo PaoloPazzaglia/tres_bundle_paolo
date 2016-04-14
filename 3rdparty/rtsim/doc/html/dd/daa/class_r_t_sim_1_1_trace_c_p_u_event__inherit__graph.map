@@ -1,0 +1,7 @@
+<map id="TraceCPUEvent" name="TraceCPUEvent">
+<area shape="rect" id="node4" href="$d2/d9b/class_r_t_sim_1_1_trace_desched_event.html" title="{TraceDeschedEvent\n||+ TraceDeschedEvent()\l+ TraceDeschedEvent()\l}" alt="" coords="5,1030,165,1122"/>
+<area shape="rect" id="node5" href="$d2/da8/class_r_t_sim_1_1_trace_end_event.html" title="{TraceEndEvent\n||+ TraceEndEvent()\l+ TraceEndEvent()\l}" alt="" coords="190,1030,321,1122"/>
+<area shape="rect" id="node6" href="$d6/dcc/class_r_t_sim_1_1_trace_sched_event.html" title="{TraceSchedEvent\n||+ TraceSchedEvent()\l+ TraceSchedEvent()\l}" alt="" coords="347,1030,493,1122"/>
+<area shape="rect" id="node2" href="$df/d45/class_r_t_sim_1_1_trace_task_event.html" title="{TraceTaskEvent\n|+ tdesc\l# _task\l|+ TraceTaskEvent()\l+ TraceTaskEvent()\l+ ~TraceTaskEvent()\l+ getSize()\l+ getTask()\l+ print()\l+ getDescription()\l+ write()\l+ read()\l+ equals()\l}" alt="" coords="183,528,329,752"/>
+<area shape="rect" id="node3" href="$d7/d36/class_r_t_sim_1_1_trace_event.html" title="{TraceEvent\n|+ TASK_ARRIVAL\l+ TASK_SCHEDULE\l+ TASK_DESCHEDULE\l+ TASK_END\l+ TASK_DLINEPOST\l+ TASK_DLINESET\l+ TASK_WAIT\l+ TASK_SIGNAL\l+ TASK_IDLE\l+ TASK_NAME\l+ TASK_DLINEMISS\l+ EVT_NUMBER\l+ evt_name\l# _type\l# _time\l|+ TraceEvent()\l+ TraceEvent()\l+ ~TraceEvent()\l+ getSize()\l+ getType()\l+ getTime()\l+ print()\l+ getDescription()\l+ somethingToDraw()\l+ write()\l+ read()\l+ equals()\l+ encode()\l+ getEvent()\l}" alt="" coords="171,6,340,479"/>
+</map>

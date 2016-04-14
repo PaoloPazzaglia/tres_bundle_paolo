@@ -1,0 +1,4 @@
+<map id="TraceArrEvent" name="TraceArrEvent">
+<area shape="rect" id="node2" href="$df/d45/class_r_t_sim_1_1_trace_task_event.html" title="{TraceTaskEvent\n|+ tdesc\l# _task\l|+ TraceTaskEvent()\l+ TraceTaskEvent()\l+ ~TraceTaskEvent()\l+ getSize()\l+ getTask()\l+ print()\l+ getDescription()\l+ write()\l+ read()\l+ equals()\l}" alt="" coords="16,528,163,752"/>
+<area shape="rect" id="node3" href="$d7/d36/class_r_t_sim_1_1_trace_event.html" title="{TraceEvent\n|+ TASK_ARRIVAL\l+ TASK_SCHEDULE\l+ TASK_DESCHEDULE\l+ TASK_END\l+ TASK_DLINEPOST\l+ TASK_DLINESET\l+ TASK_WAIT\l+ TASK_SIGNAL\l+ TASK_IDLE\l+ TASK_NAME\l+ TASK_DLINEMISS\l+ EVT_NUMBER\l+ evt_name\l# _type\l# _time\l|+ TraceEvent()\l+ TraceEvent()\l+ ~TraceEvent()\l+ getSize()\l+ getType()\l+ getTime()\l+ print()\l+ getDescription()\l+ somethingToDraw()\l+ write()\l+ read()\l+ equals()\l+ encode()\l+ getEvent()\l}" alt="" coords="5,6,173,479"/>
+</map>

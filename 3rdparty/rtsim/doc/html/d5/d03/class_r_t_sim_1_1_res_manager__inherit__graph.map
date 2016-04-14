@@ -1,0 +1,6 @@
+<map id="ResManager" name="ResManager">
+<area shape="rect" id="node3" href="$d4/d54/class_r_t_sim_1_1_b_w_i.html" title="{BWI\n|# schedulers\l|+ BWI()\l+ ~BWI()\l# addServer()\l# request()\l# release()\l}" alt="" coords="5,523,104,659"/>
+<area shape="rect" id="node4" href="$db/d9a/class_r_t_sim_1_1_f_c_f_s_res_manager.html" title="{FCFSResManager\n||+ FCFSResManager()\l+ newRun()\l+ endRun()\l# request()\l# release()\l}" alt="" coords="129,523,279,659"/>
+<area shape="rect" id="node5" href="$d4/dff/class_r_t_sim_1_1_p_i_r_manager.html" title="{PIRManager\n||+ PIRManager()\l+ newRun()\l+ endRun()\l# request()\l# release()\l}" alt="" coords="304,523,419,659"/>
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="147,6,260,215"/>
+</map>

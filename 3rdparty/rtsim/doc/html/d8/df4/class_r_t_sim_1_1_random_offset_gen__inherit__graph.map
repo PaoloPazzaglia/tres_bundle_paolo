@@ -1,0 +1,4 @@
+<map id="RandomOffsetGen" name="RandomOffsetGen">
+<area shape="rect" id="node2" href="$de/d5d/class_r_t_sim_1_1_offset_gen.html" title="{OffsetGen\n|# iatGen\l|+ OffsetGen()\l+ ~OffsetGen()\l+ bind()\l+ getMin()\l+ getAvg()\l+ getMax()\l+ OffsetGen()\l+ ~OffsetGen()\l+ bind()\l+ getMin()\l+ getAvg()\l+ getMax()\l}" alt="" coords="29,249,139,487"/>
+<area shape="rect" id="node3" href="$da/dee/class_r_t_sim_1_1_abstract_gen.html" title="{AbstractGen\&lt; Tick \&gt;\n|# va\l# taskSet\l|+ AbstractGen()\l+ ~AbstractGen()\l+ get()\l+ bind()\l+ generate()\l+ getAvg()\l+ getMin()\l+ getMax()\l}" alt="" coords="12,5,156,200"/>
+</map>

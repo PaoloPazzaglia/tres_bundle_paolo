@@ -1,0 +1,16 @@
+﻿  Building Custom Rule C:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe/base/src/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\build\base\src\CMakeFiles\generate.stamp is up-to-date.
+  ParseUtils.cpp
+  RandomVar.cpp
+  GenericVar.cpp
+  Kernel.cpp
+  Network.cpp
+  Task.cpp
+C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\Task.cpp(78): warning C4267: 'return': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\base\src\Task.cpp(92): warning C4244: 'inizializzazione': conversione da '__int64' a 'int'. Possibile perdita di dati.
+  FixedExecSegment.cpp
+  RandExecSegment.cpp
+  reginstr.cpp
+  regvar.cpp
+  Generazione del codice in corso...
+  tres_base.vcxproj -> C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\build\base\src\Release\tres_base.lib

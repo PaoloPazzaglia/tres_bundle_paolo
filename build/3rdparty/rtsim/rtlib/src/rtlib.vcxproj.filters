@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\capacitytimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\cbserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\cpu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\edfsched.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\exeinstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\fcfsresmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\feedback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\feedbacktest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\fifosched.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\fpsched.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\grubserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\interrupt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\jtrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\kernel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\kernevt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\load.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\mrtkernel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\piresman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\pollingserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\reginstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\regsched.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\regtask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\resmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\rmsched.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\rrsched.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\schedinstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\schedpoints.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\schedrta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\scheduler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\sparepot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\sporadicserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\supercbs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\taskevt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\texttrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\threinstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\traceevent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\waitinstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\instr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\rtlib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E91AF54B-176C-3993-B2A4-7CB8F8DE47B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

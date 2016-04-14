@@ -1,0 +1,4 @@
+<map id="FakeArrEvt" name="FakeArrEvt">
+<area shape="rect" id="node2" href="$d9/dc3/class_r_t_sim_1_1_task_evt.html" title="{TaskEvt\n|# _task\l# _cpu\l|+ TaskEvt()\l+ getTask()\l+ setTask()\l+ getCPU()\l+ setCPU()\l}" alt="" coords="53,366,144,517"/>
+<area shape="rect" id="node3" href="$d9/d2e/class_meta_sim_1_1_event.html" title="{Event\n|+ _DEFAULT_PRIORITY\l+ _IMMEDIATE_PRIORITY\l# _disposable\l|+ Event()\l+ ~Event()\l+ post()\l+ process()\l+ drop()\l+ getPriority()\l+ setPriority()\l+ restorePriority()\l+ getTime()\l+ getLastTime()\land 8 more...\l+ getFirst()\l+ printQueue()\l# setTime()\l# Event()\l}" alt="" coords="5,5,192,317"/>
+</map>

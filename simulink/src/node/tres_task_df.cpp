@@ -46,6 +46,9 @@
 #include <tres/Task.hpp>
 #include "simstruc.h"
 
+#include "reginstr.cpp"
+#include "regvar.cpp"
+
 #define INSTRSET_DESCR_VARNAME 0
 
 static const mxArray * getTaskInstructionSet(SimStruct *S)

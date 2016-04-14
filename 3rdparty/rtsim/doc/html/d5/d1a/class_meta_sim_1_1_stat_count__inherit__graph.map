@@ -1,0 +1,5 @@
+<map id="StatCount" name="StatCount">
+<area shape="rect" id="node3" href="$d4/dd3/class_r_t_sim_1_1_global_preemption_stat.html" title="{GlobalPreemptionStat\n||+ GlobalPreemptionStat()\l+ probe()\l+ probe()\l+ attachToTask()\l+ initValue()\l}" alt="" coords="5,741,173,877"/>
+<area shape="rect" id="node4" href="$d6/d8c/class_r_t_sim_1_1_miss_count.html" title="{MissCount\n||+ MissCount()\l+ probe()\l+ attachToTask()\l}" alt="" coords="199,756,321,863"/>
+<area shape="rect" id="node2" href="$d2/da7/class_meta_sim_1_1_base_stat.html" title="The basic statistical class. " alt="" coords="109,6,239,538"/>
+</map>

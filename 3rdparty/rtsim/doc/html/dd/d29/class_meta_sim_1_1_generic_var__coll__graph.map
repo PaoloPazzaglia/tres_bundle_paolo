@@ -1,0 +1,5 @@
+<map id="GenericVar" name="GenericVar">
+<area shape="rect" id="node2" href="$d6/d92/class_meta_sim_1_1_uniform_var.html" title="{UniformVar\n||+ UniformVar()\l+ get()\l+ ~UniformVar()\l+ getMaximum()\l+ getMinimum()\l+ createInstance()\l}" alt="" coords="11,497,139,647"/>
+<area shape="rect" id="node3" href="$df/d18/class_meta_sim_1_1_random_var.html" title="{RandomVar\n|# _seed\l# _xn\l|+ RandomVar()\l+ RandomVar()\l+ ~RandomVar()\l+ get()\l+ getMaximum()\l+ getMinimum()\l+ init()\l+ changeGenerator()\l+ restoreGenerator()\l}" alt="" coords="4,235,144,445"/>
+<area shape="rect" id="node4" href="$db/dde/class_meta_sim_1_1_random_gen.html" title="{RandomGen\n||+ RandomGen()\l+ init()\l+ sample()\l+ getCurrSeed()\l+ getModule()\l}" alt="" coords="17,5,132,141"/>
+</map>

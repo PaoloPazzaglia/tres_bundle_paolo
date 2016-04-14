@@ -214,6 +214,8 @@ static std::vector<std::string> readMaskAndBuildConfVector(SimStruct *S)
     kern_params.push_back(ss.str());
     ss.str(std::string());                    // Flush the ss
 
+    
+    
     // Done, return to the caller
     return (kern_params);
 }

@@ -1,0 +1,824 @@
+[Time:0]	Task0 arrived at 0
+[Time:0]	Task1 arrived at 0
+[Time:0]	Task2 arrived at 0
+[Time:0]	Task0 scheduled its arrival was 0
+[Time:2]	Task0 ended, its arrival was 0
+[Time:2]	Task1 scheduled its arrival was 0
+[Time:4]	Task1 ended, its arrival was 0
+[Time:4]	Task0 arrived at 4
+[Time:4]	Task2 scheduled its arrival was 0
+[Time:5]	Task1 arrived at 5
+[Time:6]	Task2 ended, its arrival was 0
+[Time:6]	Task2 arrived at 6
+[Time:6]	Task0 scheduled its arrival was 4
+[Time:8]	Task0 ended, its arrival was 4
+[Time:8]	Task0 arrived at 8
+[Time:8]	Task1 scheduled its arrival was 5
+[Time:10]	Task1 ended, its arrival was 5
+[Time:10]	Task1 arrived at 10
+[Time:10]	Task2 scheduled its arrival was 6
+[Time:12]	Task2 ended, its arrival was 6
+[Time:12]	Task2 arrived at 12
+[Time:12]	Task0 arrived at 8
+[Time:12]	Task0 missed its arrival was 8
+[Time:12]	Task0 scheduled its arrival was 8
+[Time:14]	Task0 ended, its arrival was 8
+[Time:14]	Task1 scheduled its arrival was 10
+[Time:15]	Task1 arrived at 10
+[Time:15]	Task1 missed its arrival was 10
+[Time:16]	Task1 ended, its arrival was 10
+[Time:16]	Task0 arrived at 12
+[Time:16]	Task0 missed its arrival was 12
+[Time:16]	Task0 scheduled its arrival was 12
+[Time:18]	Task0 ended, its arrival was 12
+[Time:18]	Task2 arrived at 12
+[Time:18]	Task2 missed its arrival was 12
+[Time:18]	Task2 scheduled its arrival was 12
+[Time:20]	Task2 ended, its arrival was 12
+[Time:20]	Task1 arrived at 15
+[Time:20]	Task0 arrived at 16
+[Time:20]	Task1 missed its arrival was 15
+[Time:20]	Task0 missed its arrival was 16
+[Time:20]	Task1 scheduled its arrival was 15
+[Time:22]	Task1 ended, its arrival was 15
+[Time:22]	Task0 scheduled its arrival was 16
+[Time:24]	Task0 ended, its arrival was 16
+[Time:24]	Task2 arrived at 18
+[Time:24]	Task0 arrived at 20
+[Time:24]	Task2 missed its arrival was 18
+[Time:24]	Task0 missed its arrival was 20
+[Time:24]	Task2 scheduled its arrival was 18
+[Time:25]	Task1 arrived at 20
+[Time:25]	Task1 missed its arrival was 20
+[Time:26]	Task2 ended, its arrival was 18
+[Time:26]	Task0 scheduled its arrival was 20
+[Time:28]	Task0 ended, its arrival was 20
+[Time:28]	Task0 arrived at 24
+[Time:28]	Task0 missed its arrival was 24
+[Time:28]	Task1 scheduled its arrival was 20
+[Time:30]	Task1 ended, its arrival was 20
+[Time:30]	Task2 arrived at 24
+[Time:30]	Task1 arrived at 25
+[Time:30]	Task2 missed its arrival was 24
+[Time:30]	Task1 missed its arrival was 25
+[Time:30]	Task0 scheduled its arrival was 24
+[Time:32]	Task0 ended, its arrival was 24
+[Time:32]	Task0 arrived at 28
+[Time:32]	Task0 missed its arrival was 28
+[Time:32]	Task2 scheduled its arrival was 24
+[Time:34]	Task2 ended, its arrival was 24
+[Time:34]	Task1 scheduled its arrival was 25
+[Time:35]	Task1 arrived at 25
+[Time:36]	Task1 ended, its arrival was 25
+[Time:36]	Task2 arrived at 30
+[Time:36]	Task0 arrived at 28
+[Time:36]	Task2 missed its arrival was 30
+[Time:36]	Task0 scheduled its arrival was 28
+[Time:38]	Task0 ended, its arrival was 28
+[Time:38]	Task1 scheduled its arrival was 30
+[Time:40]	Task1 ended, its arrival was 30
+[Time:40]	Task1 arrived at 35
+[Time:40]	Task0 arrived at 32
+[Time:40]	Task1 missed its arrival was 35
+[Time:40]	Task2 scheduled its arrival was 30
+[Time:42]	Task2 ended, its arrival was 30
+[Time:42]	Task2 arrived at 36
+[Time:42]	Task2 missed its arrival was 36
+[Time:42]	Task0 scheduled its arrival was 32
+[Time:44]	Task0 ended, its arrival was 32
+[Time:44]	Task0 arrived at 36
+[Time:44]	Task1 scheduled its arrival was 35
+[Time:45]	Task1 arrived at 35
+[Time:46]	Task1 ended, its arrival was 35
+[Time:46]	Task0 scheduled its arrival was 36
+[Time:48]	Task0 ended, its arrival was 36
+[Time:48]	Task2 arrived at 36
+[Time:48]	Task0 arrived at 40
+[Time:48]	Task2 scheduled its arrival was 36
+[Time:50]	Task2 ended, its arrival was 36
+[Time:50]	Task1 arrived at 40
+[Time:50]	Task0 scheduled its arrival was 40
+[Time:52]	Task0 ended, its arrival was 40
+[Time:52]	Task0 arrived at 44
+[Time:52]	Task1 scheduled its arrival was 40
+[Time:54]	Task1 ended, its arrival was 40
+[Time:54]	Task2 arrived at 42
+[Time:54]	Task2 scheduled its arrival was 42
+[Time:55]	Task1 arrived at 45
+[Time:56]	Task2 ended, its arrival was 42
+[Time:56]	Task0 arrived at 44
+[Time:56]	Task0 scheduled its arrival was 44
+[Time:58]	Task0 ended, its arrival was 44
+[Time:58]	Task1 scheduled its arrival was 45
+[Time:60]	Task1 ended, its arrival was 45
+[Time:60]	Task2 arrived at 48
+[Time:60]	Task1 arrived at 50
+[Time:60]	Task0 arrived at 48
+[Time:60]	Task0 scheduled its arrival was 48
+[Time:62]	Task0 ended, its arrival was 48
+[Time:62]	Task2 scheduled its arrival was 48
+[Time:64]	Task2 ended, its arrival was 48
+[Time:64]	Task0 arrived at 52
+[Time:64]	Task1 scheduled its arrival was 50
+[Time:65]	Task1 arrived at 50
+[Time:66]	Task1 ended, its arrival was 50
+[Time:66]	Task2 arrived at 54
+[Time:66]	Task0 scheduled its arrival was 52
+[Time:68]	Task0 ended, its arrival was 52
+[Time:68]	Task0 arrived at 56
+[Time:68]	Task2 scheduled its arrival was 54
+[Time:70]	Task2 ended, its arrival was 54
+[Time:70]	Task1 arrived at 55
+[Time:70]	Task1 scheduled its arrival was 55
+[Time:72]	Task1 ended, its arrival was 55
+[Time:72]	Task2 arrived at 60
+[Time:72]	Task0 arrived at 56
+[Time:72]	Task0 scheduled its arrival was 56
+[Time:74]	Task0 ended, its arrival was 56
+[Time:74]	Task0 scheduled its arrival was 60
+[Time:75]	Task1 arrived at 60
+[Time:76]	Task0 ended, its arrival was 60
+[Time:76]	Task0 arrived at 64
+[Time:76]	Task1 scheduled its arrival was 60
+[Time:78]	Task1 ended, its arrival was 60
+[Time:78]	Task2 arrived at 60
+[Time:78]	Task2 scheduled its arrival was 60
+[Time:80]	Task2 ended, its arrival was 60
+[Time:80]	Task1 arrived at 65
+[Time:80]	Task0 arrived at 64
+[Time:80]	Task0 scheduled its arrival was 64
+[Time:82]	Task0 ended, its arrival was 64
+[Time:82]	Task1 scheduled its arrival was 65
+[Time:84]	Task1 ended, its arrival was 65
+[Time:84]	Task2 arrived at 66
+[Time:84]	Task0 arrived at 68
+[Time:84]	Task2 scheduled its arrival was 66
+[Time:85]	Task1 arrived at 70
+[Time:86]	Task2 ended, its arrival was 66
+[Time:86]	Task0 scheduled its arrival was 68
+[Time:88]	Task0 ended, its arrival was 68
+[Time:88]	Task0 arrived at 72
+[Time:88]	Task1 scheduled its arrival was 70
+[Time:90]	Task1 ended, its arrival was 70
+[Time:90]	Task2 arrived at 72
+[Time:90]	Task1 arrived at 75
+[Time:90]	Task0 scheduled its arrival was 72
+[Time:92]	Task0 ended, its arrival was 72
+[Time:92]	Task0 arrived at 76
+[Time:92]	Task2 scheduled its arrival was 72
+[Time:94]	Task2 ended, its arrival was 72
+[Time:94]	Task1 scheduled its arrival was 75
+[Time:95]	Task1 arrived at 75
+[Time:96]	Task1 ended, its arrival was 75
+[Time:96]	Task2 arrived at 78
+[Time:96]	Task0 arrived at 76
+[Time:96]	Task0 scheduled its arrival was 76
+[Time:98]	Task0 ended, its arrival was 76
+[Time:98]	Task2 scheduled its arrival was 78
+[Time:100]	Task2 ended, its arrival was 78
+[Time:100]	Task1 arrived at 80
+[Time:100]	Task0 arrived at 80
+[Time:100]	Task0 scheduled its arrival was 80
+[Time:102]	Task0 ended, its arrival was 80
+[Time:102]	Task2 arrived at 84
+[Time:102]	Task1 scheduled its arrival was 80
+[Time:104]	Task1 ended, its arrival was 80
+[Time:104]	Task0 arrived at 84
+[Time:104]	Task0 scheduled its arrival was 84
+[Time:105]	Task1 arrived at 85
+[Time:106]	Task0 ended, its arrival was 84
+[Time:106]	Task2 scheduled its arrival was 84
+[Time:108]	Task2 ended, its arrival was 84
+[Time:108]	Task2 arrived at 90
+[Time:108]	Task0 arrived at 88
+[Time:108]	Task1 scheduled its arrival was 85
+[Time:110]	Task1 ended, its arrival was 85
+[Time:110]	Task1 arrived at 90
+[Time:110]	Task0 scheduled its arrival was 88
+[Time:112]	Task0 ended, its arrival was 88
+[Time:112]	Task0 arrived at 92
+[Time:112]	Task1 scheduled its arrival was 90
+[Time:114]	Task1 ended, its arrival was 90
+[Time:114]	Task2 arrived at 90
+[Time:114]	Task2 scheduled its arrival was 90
+[Time:115]	Task1 arrived at 95
+[Time:116]	Task2 ended, its arrival was 90
+[Time:116]	Task0 arrived at 92
+[Time:116]	Task0 scheduled its arrival was 92
+[Time:118]	Task0 ended, its arrival was 92
+[Time:118]	Task1 scheduled its arrival was 95
+[Time:120]	Task1 ended, its arrival was 95
+[Time:120]	Task2 arrived at 96
+[Time:120]	Task1 arrived at 100
+[Time:120]	Task0 arrived at 96
+[Time:120]	Task0 scheduled its arrival was 96
+[Time:122]	Task0 ended, its arrival was 96
+[Time:122]	Task2 scheduled its arrival was 96
+[Time:124]	Task2 ended, its arrival was 96
+[Time:124]	Task0 arrived at 100
+[Time:124]	Task0 scheduled its arrival was 100
+[Time:125]	Task1 arrived at 100
+[Time:126]	Task0 ended, its arrival was 100
+[Time:126]	Task2 arrived at 102
+[Time:126]	Task1 scheduled its arrival was 100
+[Time:128]	Task1 ended, its arrival was 100
+[Time:128]	Task0 arrived at 104
+[Time:128]	Task2 scheduled its arrival was 102
+[Time:130]	Task2 ended, its arrival was 102
+[Time:130]	Task1 arrived at 105
+[Time:130]	Task0 scheduled its arrival was 104
+[Time:132]	Task0 ended, its arrival was 104
+[Time:132]	Task2 arrived at 108
+[Time:132]	Task0 arrived at 108
+[Time:132]	Task1 scheduled its arrival was 105
+[Time:134]	Task1 ended, its arrival was 105
+[Time:134]	Task0 scheduled its arrival was 108
+[Time:135]	Task1 arrived at 110
+[Time:136]	Task0 ended, its arrival was 108
+[Time:136]	Task0 arrived at 112
+[Time:136]	Task2 scheduled its arrival was 108
+[Time:138]	Task2 ended, its arrival was 108
+[Time:138]	Task2 arrived at 114
+[Time:138]	Task1 scheduled its arrival was 110
+[Time:140]	Task1 ended, its arrival was 110
+[Time:140]	Task1 arrived at 115
+[Time:140]	Task0 arrived at 112
+[Time:140]	Task0 scheduled its arrival was 112
+[Time:142]	Task0 ended, its arrival was 112
+[Time:142]	Task2 scheduled its arrival was 114
+[Time:144]	Task2 ended, its arrival was 114
+[Time:144]	Task2 arrived at 120
+[Time:144]	Task0 arrived at 116
+[Time:144]	Task1 scheduled its arrival was 115
+[Time:145]	Task1 arrived at 115
+[Time:146]	Task1 ended, its arrival was 115
+[Time:146]	Task0 scheduled its arrival was 116
+[Time:148]	Task0 ended, its arrival was 116
+[Time:148]	Task0 arrived at 120
+[Time:148]	Task0 scheduled its arrival was 120
+[Time:150]	Task0 ended, its arrival was 120
+[Time:150]	Task2 arrived at 120
+[Time:150]	Task1 arrived at 120
+[Time:150]	Task1 scheduled its arrival was 120
+[Time:152]	Task1 ended, its arrival was 120
+[Time:152]	Task0 arrived at 124
+[Time:152]	Task2 scheduled its arrival was 120
+[Time:154]	Task2 ended, its arrival was 120
+[Time:154]	Task0 scheduled its arrival was 124
+[Time:155]	Task1 arrived at 125
+[Time:156]	Task0 ended, its arrival was 124
+[Time:156]	Task2 arrived at 126
+[Time:156]	Task0 arrived at 128
+[Time:156]	Task1 scheduled its arrival was 125
+[Time:158]	Task1 ended, its arrival was 125
+[Time:158]	Task2 scheduled its arrival was 126
+[Time:160]	Task2 ended, its arrival was 126
+[Time:160]	Task1 arrived at 130
+[Time:160]	Task0 arrived at 128
+[Time:160]	Task0 scheduled its arrival was 128
+[Time:162]	Task0 ended, its arrival was 128
+[Time:162]	Task2 arrived at 132
+[Time:162]	Task1 scheduled its arrival was 130
+[Time:164]	Task1 ended, its arrival was 130
+[Time:164]	Task0 arrived at 132
+[Time:164]	Task0 scheduled its arrival was 132
+[Time:165]	Task1 arrived at 135
+[Time:166]	Task0 ended, its arrival was 132
+[Time:166]	Task2 scheduled its arrival was 132
+[Time:168]	Task2 ended, its arrival was 132
+[Time:168]	Task2 arrived at 138
+[Time:168]	Task0 arrived at 136
+[Time:168]	Task1 scheduled its arrival was 135
+[Time:170]	Task1 ended, its arrival was 135
+[Time:170]	Task1 arrived at 140
+[Time:170]	Task0 scheduled its arrival was 136
+[Time:172]	Task0 ended, its arrival was 136
+[Time:172]	Task0 arrived at 140
+[Time:172]	Task2 scheduled its arrival was 138
+[Time:174]	Task2 ended, its arrival was 138
+[Time:174]	Task2 arrived at 144
+[Time:174]	Task0 scheduled its arrival was 140
+[Time:175]	Task1 arrived at 140
+[Time:176]	Task0 ended, its arrival was 140
+[Time:176]	Task0 arrived at 144
+[Time:176]	Task1 scheduled its arrival was 140
+[Time:178]	Task1 ended, its arrival was 140
+[Time:178]	Task0 scheduled its arrival was 144
+[Time:180]	Task0 ended, its arrival was 144
+[Time:180]	Task2 arrived at 144
+[Time:180]	Task1 arrived at 145
+[Time:180]	Task0 arrived at 148
+[Time:180]	Task2 scheduled its arrival was 144
+[Time:182]	Task2 ended, its arrival was 144
+[Time:182]	Task1 scheduled its arrival was 145
+[Time:184]	Task1 ended, its arrival was 145
+[Time:184]	Task0 arrived at 148
+[Time:184]	Task0 scheduled its arrival was 148
+[Time:185]	Task1 arrived at 150
+[Time:186]	Task0 ended, its arrival was 148
+[Time:186]	Task2 arrived at 150
+[Time:186]	Task1 scheduled its arrival was 150
+[Time:188]	Task1 ended, its arrival was 150
+[Time:188]	Task0 arrived at 152
+[Time:188]	Task2 scheduled its arrival was 150
+[Time:190]	Task2 ended, its arrival was 150
+[Time:190]	Task1 arrived at 155
+[Time:190]	Task0 scheduled its arrival was 152
+[Time:192]	Task0 ended, its arrival was 152
+[Time:192]	Task2 arrived at 156
+[Time:192]	Task0 arrived at 156
+[Time:192]	Task1 scheduled its arrival was 155
+[Time:194]	Task1 ended, its arrival was 155
+[Time:194]	Task0 scheduled its arrival was 156
+[Time:195]	Task1 arrived at 160
+[Time:196]	Task0 ended, its arrival was 156
+[Time:196]	Task0 arrived at 160
+[Time:196]	Task2 scheduled its arrival was 156
+[Time:198]	Task2 ended, its arrival was 156
+[Time:198]	Task2 arrived at 162
+[Time:198]	Task0 scheduled its arrival was 160
+[Time:200]	Task0 ended, its arrival was 160
+[Time:200]	Task1 arrived at 160
+[Time:200]	Task0 arrived at 164
+[Time:200]	Task1 scheduled its arrival was 160
+[Time:202]	Task1 ended, its arrival was 160
+[Time:202]	Task2 scheduled its arrival was 162
+[Time:204]	Task2 ended, its arrival was 162
+[Time:204]	Task2 arrived at 168
+[Time:204]	Task0 arrived at 164
+[Time:204]	Task0 scheduled its arrival was 164
+[Time:205]	Task1 arrived at 165
+[Time:206]	Task0 ended, its arrival was 164
+[Time:206]	Task1 scheduled its arrival was 165
+[Time:208]	Task1 ended, its arrival was 165
+[Time:208]	Task0 arrived at 168
+[Time:208]	Task0 scheduled its arrival was 168
+[Time:210]	Task0 ended, its arrival was 168
+[Time:210]	Task2 arrived at 168
+[Time:210]	Task1 arrived at 170
+[Time:210]	Task2 scheduled its arrival was 168
+[Time:212]	Task2 ended, its arrival was 168
+[Time:212]	Task0 arrived at 172
+[Time:212]	Task1 scheduled its arrival was 170
+[Time:214]	Task1 ended, its arrival was 170
+[Time:214]	Task0 scheduled its arrival was 172
+[Time:215]	Task1 arrived at 175
+[Time:216]	Task0 ended, its arrival was 172
+[Time:216]	Task2 arrived at 174
+[Time:216]	Task0 arrived at 176
+[Time:216]	Task2 scheduled its arrival was 174
+[Time:218]	Task2 ended, its arrival was 174
+[Time:218]	Task1 scheduled its arrival was 175
+[Time:220]	Task1 ended, its arrival was 175
+[Time:220]	Task1 arrived at 180
+[Time:220]	Task0 arrived at 176
+[Time:220]	Task0 scheduled its arrival was 176
+[Time:222]	Task0 ended, its arrival was 176
+[Time:222]	Task2 arrived at 180
+[Time:222]	Task0 scheduled its arrival was 180
+[Time:224]	Task0 ended, its arrival was 180
+[Time:224]	Task0 arrived at 184
+[Time:224]	Task1 scheduled its arrival was 180
+[Time:225]	Task1 arrived at 180
+[Time:226]	Task1 ended, its arrival was 180
+[Time:226]	Task2 scheduled its arrival was 180
+[Time:228]	Task2 ended, its arrival was 180
+[Time:228]	Task2 arrived at 186
+[Time:228]	Task0 arrived at 184
+[Time:228]	Task0 scheduled its arrival was 184
+[Time:230]	Task0 ended, its arrival was 184
+[Time:230]	Task1 arrived at 185
+[Time:230]	Task1 scheduled its arrival was 185
+[Time:232]	Task1 ended, its arrival was 185
+[Time:232]	Task0 arrived at 188
+[Time:232]	Task2 scheduled its arrival was 186
+[Time:234]	Task2 ended, its arrival was 186
+[Time:234]	Task2 arrived at 192
+[Time:234]	Task0 scheduled its arrival was 188
+[Time:235]	Task1 arrived at 190
+[Time:236]	Task0 ended, its arrival was 188
+[Time:236]	Task0 arrived at 192
+[Time:236]	Task1 scheduled its arrival was 190
+[Time:238]	Task1 ended, its arrival was 190
+[Time:238]	Task0 scheduled its arrival was 192
+[Time:240]	Task0 ended, its arrival was 192
+[Time:240]	Task2 arrived at 192
+[Time:240]	Task1 arrived at 195
+[Time:240]	Task0 arrived at 196
+[Time:240]	Task2 scheduled its arrival was 192
+[Time:242]	Task2 ended, its arrival was 192
+[Time:242]	Task1 scheduled its arrival was 195
+[Time:244]	Task1 ended, its arrival was 195
+[Time:244]	Task0 arrived at 196
+[Time:244]	Task0 scheduled its arrival was 196
+[Time:245]	Task1 arrived at 200
+[Time:246]	Task0 ended, its arrival was 196
+[Time:246]	Task2 arrived at 198
+[Time:246]	Task2 scheduled its arrival was 198
+[Time:248]	Task2 ended, its arrival was 198
+[Time:248]	Task0 arrived at 200
+[Time:248]	Task0 scheduled its arrival was 200
+[Time:250]	Task0 ended, its arrival was 200
+[Time:250]	Task1 arrived at 200
+[Time:250]	Task1 scheduled its arrival was 200
+[Time:252]	Task1 ended, its arrival was 200
+[Time:252]	Task2 arrived at 204
+[Time:252]	Task0 arrived at 204
+[Time:252]	Task0 scheduled its arrival was 204
+[Time:254]	Task0 ended, its arrival was 204
+[Time:254]	Task2 scheduled its arrival was 204
+[Time:255]	Task1 arrived at 205
+[Time:256]	Task2 ended, its arrival was 204
+[Time:256]	Task0 arrived at 208
+[Time:256]	Task1 scheduled its arrival was 205
+[Time:258]	Task1 ended, its arrival was 205
+[Time:258]	Task2 arrived at 210
+[Time:258]	Task0 scheduled its arrival was 208
+[Time:260]	Task0 ended, its arrival was 208
+[Time:260]	Task1 arrived at 210
+[Time:260]	Task0 arrived at 212
+[Time:260]	Task1 scheduled its arrival was 210
+[Time:262]	Task1 ended, its arrival was 210
+[Time:262]	Task2 scheduled its arrival was 210
+[Time:264]	Task2 ended, its arrival was 210
+[Time:264]	Task2 arrived at 216
+[Time:264]	Task0 arrived at 212
+[Time:264]	Task0 scheduled its arrival was 212
+[Time:265]	Task1 arrived at 215
+[Time:266]	Task0 ended, its arrival was 212
+[Time:266]	Task1 scheduled its arrival was 215
+[Time:268]	Task1 ended, its arrival was 215
+[Time:268]	Task0 arrived at 216
+[Time:268]	Task0 scheduled its arrival was 216
+[Time:270]	Task0 ended, its arrival was 216
+[Time:270]	Task2 arrived at 216
+[Time:270]	Task1 arrived at 220
+[Time:270]	Task2 scheduled its arrival was 216
+[Time:272]	Task2 ended, its arrival was 216
+[Time:272]	Task0 arrived at 220
+[Time:272]	Task0 scheduled its arrival was 220
+[Time:274]	Task0 ended, its arrival was 220
+[Time:274]	Task1 scheduled its arrival was 220
+[Time:275]	Task1 arrived at 220
+[Time:276]	Task1 ended, its arrival was 220
+[Time:276]	Task2 arrived at 222
+[Time:276]	Task0 arrived at 224
+[Time:276]	Task2 scheduled its arrival was 222
+[Time:278]	Task2 ended, its arrival was 222
+[Time:278]	Task0 scheduled its arrival was 224
+[Time:280]	Task0 ended, its arrival was 224
+[Time:280]	Task1 arrived at 225
+[Time:280]	Task0 arrived at 228
+[Time:280]	Task1 scheduled its arrival was 225
+[Time:282]	Task1 ended, its arrival was 225
+[Time:282]	Task2 arrived at 228
+[Time:282]	Task0 scheduled its arrival was 228
+[Time:284]	Task0 ended, its arrival was 228
+[Time:284]	Task0 arrived at 232
+[Time:284]	Task2 scheduled its arrival was 228
+[Time:285]	Task1 arrived at 230
+[Time:286]	Task2 ended, its arrival was 228
+[Time:286]	Task1 scheduled its arrival was 230
+[Time:288]	Task1 ended, its arrival was 230
+[Time:288]	Task2 arrived at 234
+[Time:288]	Task0 arrived at 232
+[Time:288]	Task0 scheduled its arrival was 232
+[Time:290]	Task0 ended, its arrival was 232
+[Time:290]	Task1 arrived at 235
+[Time:290]	Task2 scheduled its arrival was 234
+[Time:292]	Task2 ended, its arrival was 234
+[Time:292]	Task0 arrived at 236
+[Time:292]	Task1 scheduled its arrival was 235
+[Time:294]	Task1 ended, its arrival was 235
+[Time:294]	Task2 arrived at 240
+[Time:294]	Task0 scheduled its arrival was 236
+[Time:295]	Task1 arrived at 240
+[Time:296]	Task0 ended, its arrival was 236
+[Time:296]	Task0 arrived at 240
+[Time:296]	Task0 scheduled its arrival was 240
+[Time:298]	Task0 ended, its arrival was 240
+[Time:298]	Task1 scheduled its arrival was 240
+[Time:300]	Task1 ended, its arrival was 240
+[Time:300]	Task2 arrived at 240
+[Time:300]	Task1 arrived at 245
+[Time:300]	Task0 arrived at 244
+[Time:300]	Task2 scheduled its arrival was 240
+[Time:302]	Task2 ended, its arrival was 240
+[Time:302]	Task0 scheduled its arrival was 244
+[Time:304]	Task0 ended, its arrival was 244
+[Time:304]	Task0 arrived at 248
+[Time:304]	Task1 scheduled its arrival was 245
+[Time:305]	Task1 arrived at 245
+[Time:306]	Task1 ended, its arrival was 245
+[Time:306]	Task2 arrived at 246
+[Time:306]	Task2 scheduled its arrival was 246
+[Time:308]	Task2 ended, its arrival was 246
+[Time:308]	Task0 arrived at 248
+[Time:308]	Task0 scheduled its arrival was 248
+[Time:310]	Task0 ended, its arrival was 248
+[Time:310]	Task1 arrived at 250
+[Time:310]	Task1 scheduled its arrival was 250
+[Time:312]	Task1 ended, its arrival was 250
+[Time:312]	Task2 arrived at 252
+[Time:312]	Task0 arrived at 252
+[Time:312]	Task0 scheduled its arrival was 252
+[Time:314]	Task0 ended, its arrival was 252
+[Time:314]	Task2 scheduled its arrival was 252
+[Time:315]	Task1 arrived at 255
+[Time:316]	Task2 ended, its arrival was 252
+[Time:316]	Task0 arrived at 256
+[Time:316]	Task1 scheduled its arrival was 255
+[Time:318]	Task1 ended, its arrival was 255
+[Time:318]	Task2 arrived at 258
+[Time:318]	Task0 scheduled its arrival was 256
+[Time:320]	Task0 ended, its arrival was 256
+[Time:320]	Task1 arrived at 260
+[Time:320]	Task0 arrived at 260
+[Time:320]	Task2 scheduled its arrival was 258
+[Time:322]	Task2 ended, its arrival was 258
+[Time:322]	Task0 scheduled its arrival was 260
+[Time:324]	Task0 ended, its arrival was 260
+[Time:324]	Task2 arrived at 264
+[Time:324]	Task0 arrived at 264
+[Time:324]	Task1 scheduled its arrival was 260
+[Time:325]	Task1 arrived at 260
+[Time:326]	Task1 ended, its arrival was 260
+[Time:326]	Task0 scheduled its arrival was 264
+[Time:328]	Task0 ended, its arrival was 264
+[Time:328]	Task0 arrived at 268
+[Time:328]	Task2 scheduled its arrival was 264
+[Time:330]	Task2 ended, its arrival was 264
+[Time:330]	Task2 arrived at 270
+[Time:330]	Task1 arrived at 265
+[Time:330]	Task1 scheduled its arrival was 265
+[Time:332]	Task1 ended, its arrival was 265
+[Time:332]	Task0 arrived at 268
+[Time:332]	Task0 scheduled its arrival was 268
+[Time:334]	Task0 ended, its arrival was 268
+[Time:334]	Task1 scheduled its arrival was 270
+[Time:335]	Task1 arrived at 270
+[Time:336]	Task1 ended, its arrival was 270
+[Time:336]	Task2 arrived at 270
+[Time:336]	Task0 arrived at 272
+[Time:336]	Task2 scheduled its arrival was 270
+[Time:338]	Task2 ended, its arrival was 270
+[Time:338]	Task0 scheduled its arrival was 272
+[Time:340]	Task0 ended, its arrival was 272
+[Time:340]	Task1 arrived at 275
+[Time:340]	Task0 arrived at 276
+[Time:340]	Task1 scheduled its arrival was 275
+[Time:342]	Task1 ended, its arrival was 275
+[Time:342]	Task2 arrived at 276
+[Time:342]	Task0 scheduled its arrival was 276
+[Time:344]	Task0 ended, its arrival was 276
+[Time:344]	Task0 arrived at 280
+[Time:344]	Task2 scheduled its arrival was 276
+[Time:345]	Task1 arrived at 280
+[Time:346]	Task2 ended, its arrival was 276
+[Time:346]	Task0 scheduled its arrival was 280
+[Time:348]	Task0 ended, its arrival was 280
+[Time:348]	Task2 arrived at 282
+[Time:348]	Task0 arrived at 284
+[Time:348]	Task1 scheduled its arrival was 280
+[Time:350]	Task1 ended, its arrival was 280
+[Time:350]	Task1 arrived at 285
+[Time:350]	Task2 scheduled its arrival was 282
+[Time:352]	Task2 ended, its arrival was 282
+[Time:352]	Task0 arrived at 284
+[Time:352]	Task0 scheduled its arrival was 284
+[Time:354]	Task0 ended, its arrival was 284
+[Time:354]	Task2 arrived at 288
+[Time:354]	Task1 scheduled its arrival was 285
+[Time:355]	Task1 arrived at 285
+[Time:356]	Task1 ended, its arrival was 285
+[Time:356]	Task0 arrived at 288
+[Time:356]	Task0 scheduled its arrival was 288
+[Time:358]	Task0 ended, its arrival was 288
+[Time:358]	Task2 scheduled its arrival was 288
+[Time:360]	Task2 ended, its arrival was 288
+[Time:360]	Task2 arrived at 294
+[Time:360]	Task1 arrived at 290
+[Time:360]	Task0 arrived at 292
+[Time:360]	Task1 scheduled its arrival was 290
+[Time:362]	Task1 ended, its arrival was 290
+[Time:362]	Task0 scheduled its arrival was 292
+[Time:364]	Task0 ended, its arrival was 292
+[Time:364]	Task0 arrived at 296
+[Time:364]	Task2 scheduled its arrival was 294
+[Time:365]	Task1 arrived at 295
+[Time:366]	Task2 ended, its arrival was 294
+[Time:366]	Task2 arrived at 300
+[Time:366]	Task1 scheduled its arrival was 295
+[Time:368]	Task1 ended, its arrival was 295
+[Time:368]	Task0 arrived at 296
+[Time:368]	Task0 scheduled its arrival was 296
+[Time:370]	Task0 ended, its arrival was 296
+[Time:370]	Task1 arrived at 300
+[Time:370]	Task0 scheduled its arrival was 300
+[Time:372]	Task0 ended, its arrival was 300
+[Time:372]	Task2 arrived at 300
+[Time:372]	Task0 arrived at 304
+[Time:372]	Task1 scheduled its arrival was 300
+[Time:374]	Task1 ended, its arrival was 300
+[Time:374]	Task2 scheduled its arrival was 300
+[Time:375]	Task1 arrived at 305
+[Time:376]	Task2 ended, its arrival was 300
+[Time:376]	Task0 arrived at 304
+[Time:376]	Task0 scheduled its arrival was 304
+[Time:378]	Task0 ended, its arrival was 304
+[Time:378]	Task2 arrived at 306
+[Time:378]	Task1 scheduled its arrival was 305
+[Time:380]	Task1 ended, its arrival was 305
+[Time:380]	Task1 arrived at 310
+[Time:380]	Task0 arrived at 308
+[Time:380]	Task2 scheduled its arrival was 306
+[Time:382]	Task2 ended, its arrival was 306
+[Time:382]	Task0 scheduled its arrival was 308
+[Time:384]	Task0 ended, its arrival was 308
+[Time:384]	Task2 arrived at 312
+[Time:384]	Task0 arrived at 312
+[Time:384]	Task1 scheduled its arrival was 310
+[Time:385]	Task1 arrived at 310
+[Time:386]	Task1 ended, its arrival was 310
+[Time:386]	Task0 scheduled its arrival was 312
+[Time:388]	Task0 ended, its arrival was 312
+[Time:388]	Task0 arrived at 316
+[Time:388]	Task2 scheduled its arrival was 312
+[Time:390]	Task2 ended, its arrival was 312
+[Time:390]	Task2 arrived at 318
+[Time:390]	Task1 arrived at 315
+[Time:390]	Task1 scheduled its arrival was 315
+[Time:392]	Task1 ended, its arrival was 315
+[Time:392]	Task0 arrived at 316
+[Time:392]	Task0 scheduled its arrival was 316
+[Time:394]	Task0 ended, its arrival was 316
+[Time:394]	Task2 scheduled its arrival was 318
+[Time:395]	Task1 arrived at 320
+[Time:396]	Task2 ended, its arrival was 318
+[Time:396]	Task2 arrived at 324
+[Time:396]	Task0 arrived at 320
+[Time:396]	Task0 scheduled its arrival was 320
+[Time:398]	Task0 ended, its arrival was 320
+[Time:398]	Task1 scheduled its arrival was 320
+[Time:400]	Task1 ended, its arrival was 320
+[Time:400]	Task1 arrived at 325
+[Time:400]	Task0 arrived at 324
+[Time:400]	Task0 scheduled its arrival was 324
+[Time:402]	Task0 ended, its arrival was 324
+[Time:402]	Task2 arrived at 324
+[Time:402]	Task2 scheduled its arrival was 324
+[Time:404]	Task2 ended, its arrival was 324
+[Time:404]	Task0 arrived at 328
+[Time:404]	Task1 scheduled its arrival was 325
+[Time:405]	Task1 arrived at 325
+[Time:406]	Task1 ended, its arrival was 325
+[Time:406]	Task0 scheduled its arrival was 328
+[Time:408]	Task0 ended, its arrival was 328
+[Time:408]	Task2 arrived at 330
+[Time:408]	Task0 arrived at 332
+[Time:408]	Task1 scheduled its arrival was 330
+[Time:410]	Task1 ended, its arrival was 330
+[Time:410]	Task1 arrived at 335
+[Time:410]	Task2 scheduled its arrival was 330
+[Time:412]	Task2 ended, its arrival was 330
+[Time:412]	Task0 arrived at 332
+[Time:412]	Task0 scheduled its arrival was 332
+[Time:414]	Task0 ended, its arrival was 332
+[Time:414]	Task2 arrived at 336
+[Time:414]	Task1 scheduled its arrival was 335
+[Time:415]	Task1 arrived at 335
+[Time:416]	Task1 ended, its arrival was 335
+[Time:416]	Task0 arrived at 336
+[Time:416]	Task0 scheduled its arrival was 336
+[Time:418]	Task0 ended, its arrival was 336
+[Time:418]	Task2 scheduled its arrival was 336
+[Time:420]	Task2 ended, its arrival was 336
+[Time:420]	Task2 arrived at 342
+[Time:420]	Task1 arrived at 340
+[Time:420]	Task0 arrived at 340
+[Time:420]	Task0 scheduled its arrival was 340
+[Time:422]	Task0 ended, its arrival was 340
+[Time:422]	Task1 scheduled its arrival was 340
+[Time:424]	Task1 ended, its arrival was 340
+[Time:424]	Task0 arrived at 344
+[Time:424]	Task2 scheduled its arrival was 342
+[Time:425]	Task1 arrived at 345
+[Time:426]	Task2 ended, its arrival was 342
+[Time:426]	Task2 arrived at 348
+[Time:426]	Task0 scheduled its arrival was 344
+[Time:428]	Task0 ended, its arrival was 344
+[Time:428]	Task0 arrived at 348
+[Time:428]	Task1 scheduled its arrival was 345
+[Time:430]	Task1 ended, its arrival was 345
+[Time:430]	Task1 arrived at 350
+[Time:430]	Task0 scheduled its arrival was 348
+[Time:432]	Task0 ended, its arrival was 348
+[Time:432]	Task2 arrived at 348
+[Time:432]	Task0 arrived at 352
+[Time:432]	Task2 scheduled its arrival was 348
+[Time:434]	Task2 ended, its arrival was 348
+[Time:434]	Task1 scheduled its arrival was 350
+[Time:435]	Task1 arrived at 350
+[Time:436]	Task1 ended, its arrival was 350
+[Time:436]	Task0 arrived at 352
+[Time:436]	Task0 scheduled its arrival was 352
+[Time:438]	Task0 ended, its arrival was 352
+[Time:438]	Task2 arrived at 354
+[Time:438]	Task2 scheduled its arrival was 354
+[Time:440]	Task2 ended, its arrival was 354
+[Time:440]	Task1 arrived at 355
+[Time:440]	Task0 arrived at 356
+[Time:440]	Task1 scheduled its arrival was 355
+[Time:442]	Task1 ended, its arrival was 355
+[Time:442]	Task0 scheduled its arrival was 356
+[Time:444]	Task0 ended, its arrival was 356
+[Time:444]	Task2 arrived at 360
+[Time:444]	Task0 arrived at 360
+[Time:444]	Task0 scheduled its arrival was 360
+[Time:445]	Task1 arrived at 360
+[Time:446]	Task0 ended, its arrival was 360
+[Time:446]	Task1 scheduled its arrival was 360
+[Time:448]	Task1 ended, its arrival was 360
+[Time:448]	Task0 arrived at 364
+[Time:448]	Task2 scheduled its arrival was 360
+[Time:450]	Task2 ended, its arrival was 360
+[Time:450]	Task2 arrived at 366
+[Time:450]	Task1 arrived at 365
+[Time:450]	Task0 scheduled its arrival was 364
+[Time:452]	Task0 ended, its arrival was 364
+[Time:452]	Task0 arrived at 368
+[Time:452]	Task1 scheduled its arrival was 365
+[Time:454]	Task1 ended, its arrival was 365
+[Time:454]	Task2 scheduled its arrival was 366
+[Time:455]	Task1 arrived at 370
+[Time:456]	Task2 ended, its arrival was 366
+[Time:456]	Task2 arrived at 372
+[Time:456]	Task0 arrived at 368
+[Time:456]	Task0 scheduled its arrival was 368
+[Time:458]	Task0 ended, its arrival was 368
+[Time:458]	Task1 scheduled its arrival was 370
+[Time:460]	Task1 ended, its arrival was 370
+[Time:460]	Task1 arrived at 375
+[Time:460]	Task0 arrived at 372
+[Time:460]	Task0 scheduled its arrival was 372
+[Time:462]	Task0 ended, its arrival was 372
+[Time:462]	Task2 arrived at 372
+[Time:462]	Task2 scheduled its arrival was 372
+[Time:464]	Task2 ended, its arrival was 372
+[Time:464]	Task0 arrived at 376
+[Time:464]	Task1 scheduled its arrival was 375
+[Time:465]	Task1 arrived at 375
+[Time:466]	Task1 ended, its arrival was 375
+[Time:466]	Task0 scheduled its arrival was 376
+[Time:468]	Task0 ended, its arrival was 376
+[Time:468]	Task2 arrived at 378
+[Time:468]	Task0 arrived at 380
+[Time:468]	Task2 scheduled its arrival was 378
+[Time:470]	Task2 ended, its arrival was 378
+[Time:470]	Task1 arrived at 380
+[Time:470]	Task0 scheduled its arrival was 380
+[Time:472]	Task0 ended, its arrival was 380
+[Time:472]	Task0 arrived at 384
+[Time:472]	Task1 scheduled its arrival was 380
+[Time:474]	Task1 ended, its arrival was 380
+[Time:474]	Task2 arrived at 384
+[Time:474]	Task0 scheduled its arrival was 384
+[Time:475]	Task1 arrived at 385
+[Time:476]	Task0 ended, its arrival was 384
+[Time:476]	Task0 arrived at 388
+[Time:476]	Task2 scheduled its arrival was 384
+[Time:478]	Task2 ended, its arrival was 384
+[Time:478]	Task1 scheduled its arrival was 385
+[Time:480]	Task1 ended, its arrival was 385
+[Time:480]	Task2 arrived at 390
+[Time:480]	Task1 arrived at 390
+[Time:480]	Task0 arrived at 388
+[Time:480]	Task0 scheduled its arrival was 388
+[Time:482]	Task0 ended, its arrival was 388
+[Time:482]	Task1 scheduled its arrival was 390
+[Time:484]	Task1 ended, its arrival was 390
+[Time:484]	Task0 arrived at 392
+[Time:484]	Task2 scheduled its arrival was 390
+[Time:485]	Task1 arrived at 395
+[Time:486]	Task2 ended, its arrival was 390
+[Time:486]	Task2 arrived at 396
+[Time:486]	Task0 scheduled its arrival was 392
+[Time:488]	Task0 ended, its arrival was 392
+[Time:488]	Task0 arrived at 396
+[Time:488]	Task1 scheduled its arrival was 395
+[Time:490]	Task1 ended, its arrival was 395
+[Time:490]	Task1 arrived at 400
+[Time:490]	Task0 scheduled its arrival was 396
+[Time:492]	Task0 ended, its arrival was 396
+[Time:492]	Task2 arrived at 396
+[Time:492]	Task0 arrived at 400
+[Time:492]	Task2 scheduled its arrival was 396
+[Time:494]	Task2 ended, its arrival was 396
+[Time:494]	Task0 scheduled its arrival was 400
+[Time:495]	Task1 arrived at 400
+[Time:496]	Task0 ended, its arrival was 400
+[Time:496]	Task0 arrived at 404
+[Time:496]	Task1 scheduled its arrival was 400
+[Time:498]	Task1 ended, its arrival was 400
+[Time:498]	Task2 arrived at 402
+[Time:498]	Task2 scheduled its arrival was 402

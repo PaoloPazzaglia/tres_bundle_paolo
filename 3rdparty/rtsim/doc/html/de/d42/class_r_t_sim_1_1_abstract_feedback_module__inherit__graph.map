@@ -1,0 +1,5 @@
+<map id="AbstractFeedbackModule" name="AbstractFeedbackModule">
+<area shape="rect" id="node3" href="$db/dd2/class_r_t_sim_1_1_feedback_module_a_r_sim.html" title="{FeedbackModuleARSim\n||+ FeedbackModuleARSim()\l+ ~FeedbackModuleARSim()\l+ setSupervisor()\l+ notify()\l+ newRun()\l+ endRun()\l+ onJobEnd()\l+ onJobStart()\l+ getRequiredBudget()\l+ getGrantedBudget()\l+ setControllerParams()\l}" alt="" coords="5,464,195,688"/>
+<area shape="rect" id="node4" href="$de/db4/class_r_t_sim_1_1_feedback_test_module.html" title="{FeedbackTestModule\n||+ FeedbackTestModule()\l+ ~FeedbackTestModule()\l+ setSupervisor()\l+ addSample()\l+ notify()\l+ newRun()\l+ endRun()\l}" alt="" coords="219,493,393,659"/>
+<area shape="rect" id="node2" href="$dd/d26/class_meta_sim_1_1_entity.html" title="{Entity\n||+ Entity()\l+ ~Entity()\l+ getID()\l+ getName()\l+ newRun()\l+ endRun()\l+ getPointer()\l+ _find()\l+ callNewRun()\l+ callEndRun()\l}" alt="" coords="146,6,259,215"/>
+</map>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\adapters\rtsim\src\KernelRtSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\adapters\rtsim\src\SimTaskRtSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\adapters\rtsim\src\EventRtSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\adapters\rtsim\src\ActiveSimulationManagerRtSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\adapters\rtsim\src\regsched.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\adapters\rtsim\src\regtask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\adapters\rtsim\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E91AF54B-176C-3993-B2A4-7CB8F8DE47B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

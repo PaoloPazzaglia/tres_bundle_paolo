@@ -1,0 +1,6 @@
+<map id="KernelEvt" name="KernelEvt">
+<area shape="rect" id="node3" href="$da/d36/class_r_t_sim_1_1_begin_dispatch_evt.html" title="{BeginDispatchEvt\n||+ BeginDispatchEvt()\l+ doit()\l}" alt="" coords="5,521,152,613"/>
+<area shape="rect" id="node4" href="$d5/d4b/class_r_t_sim_1_1_dispatch_evt.html" title="{DispatchEvt\n||+ DispatchEvt()\l+ doit()\l}" alt="" coords="176,521,291,613"/>
+<area shape="rect" id="node5" href="$d2/dae/class_r_t_sim_1_1_end_dispatch_evt.html" title="{EndDispatchEvt\n||+ EndDispatchEvt()\l+ doit()\l}" alt="" coords="315,521,452,613"/>
+<area shape="rect" id="node2" href="$d9/d2e/class_meta_sim_1_1_event.html" title="{Event\n|+ _DEFAULT_PRIORITY\l+ _IMMEDIATE_PRIORITY\l# _disposable\l|+ Event()\l+ ~Event()\l+ post()\l+ process()\l+ drop()\l+ getPriority()\l+ setPriority()\l+ restorePriority()\l+ getTime()\l+ getLastTime()\land 8 more...\l+ getFirst()\l+ printQueue()\l# setTime()\l# Event()\l}" alt="" coords="140,5,327,317"/>
+</map>

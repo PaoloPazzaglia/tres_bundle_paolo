@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{7EEBF7AA-7675-3D25-852D-A722073D70C2}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe/3rdparty/rtsim/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe -BC:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe/build --check-stamp-file C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\build\3rdparty\rtsim\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe/3rdparty/rtsim/CMakeLists.txt;C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\CMakeLists.txt;C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\3rdparty\rtsim\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Paolo\Documents\tres_bundle_VS2015\tres_bundle-issue_2_fe\build\3rdparty\rtsim\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe/build/ZERO_CHECK.vcxproj">
+      <Project>0BB77DF5-FC6C-3887-B304-191985341DBA</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe/build/3rdparty/rtsim/metasim/src/metasim.vcxproj">
+      <Project>129ED8D4-6F3B-37A0-8B61-EA7765430455</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Users/Paolo/Documents/tres_bundle_VS2015/tres_bundle-issue_2_fe/build/3rdparty/rtsim/rtlib/src/rtlib.vcxproj">
+      <Project>9C9ECA60-BB34-3EF6-95F6-1D486CD9703F</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
